@@ -1,0 +1,52 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/auste/OneDrive - Athens State University/Documents/URP/New CS/Assignment5/Assignment5.a/Assignment5a/Content/Meshes/Cube.uasset",
+				"C:/Users/auste/OneDrive - Athens State University/Documents/URP/New CS/Assignment5/Assignment5.a/Assignment5a/Content/Meshes/Cylinder.uasset",
+				"C:/Users/auste/OneDrive - Athens State University/Documents/URP/New CS/Assignment5/Assignment5.a/Assignment5a/Content/Meshes/MT_Pommel.uasset",
+				"C:/Users/auste/OneDrive - Athens State University/Documents/URP/New CS/Assignment5/Assignment5.a/Assignment5a/Content/Meshes/MT_Blade.uasset",
+				"C:/Users/auste/OneDrive - Athens State University/Documents/URP/New CS/Assignment5/Assignment5.a/Assignment5a/Content/Meshes/MT_Handle.uasset",
+				"C:/Users/auste/OneDrive - Athens State University/Documents/URP/New CS/Assignment5/Assignment5.a/Assignment5a/Content/Meshes/MT_Guard.uasset",
+				"C:/Users/auste/OneDrive - Athens State University/Documents/URP/New CS/Assignment5/Assignment5.a/Assignment5a/Content/Meshes/SM_MG_Sword.uasset",
+				"C:/Users/auste/OneDrive - Athens State University/Documents/URP/New CS/Assignment5/Assignment5.a/Assignment5a/Content/Blueprints/BP_SwordPickup.uasset",
+				"C:/Users/auste/OneDrive - Athens State University/Documents/URP/New CS/Assignment5/Assignment5.a/Assignment5a/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset",
+				"C:/Users/auste/OneDrive - Athens State University/Documents/URP/New CS/Assignment5/Assignment5.a/Assignment5a/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/auste/OneDrive - Athens State University/Documents/URP/New CS/Assignment5/Assignment5.a/Assignment5a/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/4/4W/7U99RIM8PR22AH11QXLDOE.uasset",
+				"C:/Users/auste/OneDrive - Athens State University/Documents/URP/New CS/Assignment5/Assignment5.a/Assignment5a/Content/Blueprints/BP_interface_Sword.uasset",
+				"C:/Users/auste/OneDrive - Athens State University/Documents/URP/New CS/Assignment5/Assignment5.a/Assignment5a/Content/Blueprints/BP_BaseHeldItem.uasset",
+				"C:/Users/auste/OneDrive - Athens State University/Documents/URP/New CS/Assignment5/Assignment5.a/Assignment5a/Content/Input/Actions/IA_actions.uasset",
+				"C:/Users/auste/OneDrive - Athens State University/Documents/URP/New CS/Assignment5/Assignment5.a/Assignment5a/Content/Input/IMC_Default.uasset",
+				"C:/Users/auste/OneDrive - Athens State University/Documents/URP/New CS/Assignment5/Assignment5.a/Assignment5a/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/ND/KPTA15TRDYJ87Q6C9G33O2.uasset",
+				"C:/Users/auste/OneDrive - Athens State University/Documents/URP/New CS/Assignment5/Assignment5.a/Assignment5a/Content/Characters/Mannequins/Meshes/SKM_Quinn_Simple.uasset",
+				"C:/Users/auste/OneDrive - Athens State University/Documents/URP/New CS/Assignment5/Assignment5.a/Assignment5a/Content/SM_MERGED_Sword.uasset",
+				"C:/Users/auste/OneDrive - Athens State University/Documents/URP/New CS/Assignment5/Assignment5.a/Assignment5a/Content/Blueprints/SM_MG_Sword.uasset",
+				"C:/Users/auste/OneDrive - Athens State University/Documents/URP/New CS/Assignment5/Assignment5.a/Assignment5a/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/XU/16QJCD6KXZRV7LNF4SH49M.uasset",
+				"C:/Users/auste/OneDrive - Athens State University/Documents/URP/New CS/Assignment5/Assignment5.a/Assignment5a/Content/Blueprints/NewWidgetBlueprint.uasset",
+				"C:/Users/auste/OneDrive - Athens State University/Documents/URP/New CS/Assignment5/Assignment5.a/Assignment5a/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/2H/EX1K52625PUD5N6YWRNLD4.uasset",
+				"C:/Users/auste/OneDrive - Athens State University/Documents/URP/New CS/Assignment5/Assignment5.a/Assignment5a/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/H3/QIKQ6LKZ00K5GWHC5VC6XC.uasset",
+				"C:/Users/auste/OneDrive - Athens State University/Documents/URP/New CS/Assignment5/Assignment5.a/Assignment5a/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/E/PK/VTS57TQ9GJEMR1BERHR691.uasset",
+				"C:/Users/auste/OneDrive - Athens State University/Documents/URP/New CS/Assignment5/Assignment5.a/Assignment5a/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/HY/Q7CPP7VHOXBAMAJI90W626.uasset",
+				"C:/Users/auste/OneDrive - Athens State University/Documents/URP/New CS/Assignment5/Assignment5.a/Assignment5a/Content/Meshes/Pommel_.uasset",
+				"C:/Users/auste/OneDrive - Athens State University/Documents/URP/New CS/Assignment5/Assignment5.a/Assignment5a/Content/Meshes/Material_001.uasset",
+				"C:/Users/auste/OneDrive - Athens State University/Documents/URP/New CS/Assignment5/Assignment5.a/Assignment5a/Content/Meshes/Handle.uasset",
+				"C:/Users/auste/OneDrive - Athens State University/Documents/URP/New CS/Assignment5/Assignment5.a/Assignment5a/Content/Meshes/Guard_.uasset",
+				"C:/Users/auste/OneDrive - Athens State University/Documents/URP/New CS/Assignment5/Assignment5.a/Assignment5a/Content/Guard_.uasset",
+				"C:/Users/auste/OneDrive - Athens State University/Documents/URP/New CS/Assignment5/Assignment5.a/Assignment5a/Content/Handle.uasset",
+				"C:/Users/auste/OneDrive - Athens State University/Documents/URP/New CS/Assignment5/Assignment5.a/Assignment5a/Content/Material_001.uasset",
+				"C:/Users/auste/OneDrive - Athens State University/Documents/URP/New CS/Assignment5/Assignment5.a/Assignment5a/Content/Pommel_.uasset",
+				"C:/Users/auste/OneDrive - Athens State University/Documents/URP/New CS/Assignment5/Assignment5.a/Assignment5a/Content/ThirdPerson/Guard_.uasset",
+				"C:/Users/auste/OneDrive - Athens State University/Documents/URP/New CS/Assignment5/Assignment5.a/Assignment5a/Content/ThirdPerson/Handle.uasset",
+				"C:/Users/auste/OneDrive - Athens State University/Documents/URP/New CS/Assignment5/Assignment5.a/Assignment5a/Content/ThirdPerson/Material_001.uasset",
+				"C:/Users/auste/OneDrive - Athens State University/Documents/URP/New CS/Assignment5/Assignment5.a/Assignment5a/Content/ThirdPerson/Pommel_.uasset",
+				"C:/Users/auste/OneDrive - Athens State University/Documents/URP/New CS/Assignment5/Assignment5.a/Assignment5a/Content/Meshes/SM_MERGED_Sword.uasset",
+				"C:/Users/auste/OneDrive - Athens State University/Documents/URP/New CS/Assignment5/Assignment5.a/Assignment5a/Content/Blueprints/BP_Interface_Interact.uasset",
+				"C:/Users/auste/OneDrive - Athens State University/Documents/URP/New CS/Assignment5/Assignment5.a/Assignment5a/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/4/I0/WICAH3MGOS2JKBWVHOT8AW.uasset",
+				"C:/Users/auste/OneDrive - Athens State University/Documents/URP/New CS/Assignment5/Assignment5.a/Assignment5a/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/G1/K4BDPI8KBPXQF0RNWUOHUF.uasset"
+			]
+		}
+	]
+}

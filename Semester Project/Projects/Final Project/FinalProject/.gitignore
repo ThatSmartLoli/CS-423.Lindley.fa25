@@ -1,0 +1,36 @@
+# UE5 project essentials
+*.sln
+*.VC.db
+*.suo
+*.xcodeproj
+*.xcworkspace
+*.xcuserstate
+
+# Build and intermediate files
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vscode/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Unreal autosave
+Autosaves/
+
+# Compiled assets
+*.pdb
+*.obj
+*.exe
+*.dll
+*.app
+*.dylib
+
+# Backup
+*.bak
+*.tmp
+
+# User settings
+Config/DefaultEditorPerProjectUserSettings.ini
